@@ -30,10 +30,10 @@ cryptolab的核心套利逻辑是多单多笔交易和同笔插入跟单获利�
 
 下载地址：
 
-(https://cryptolab.ltd/)
+https://cryptolab.ltd
 
 
-(https://cryptolab.ltd/)
+https://cryptolab.ltd
 
 ✅️cryptolab唯一在线客服💁‍♀️
 ✈️Telegram：@cryptolabx
